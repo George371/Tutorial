@@ -1,9 +1,3 @@
-//Escribiendo un comentario para guardar el cambio en github 
-//Haciendo otro cambio 
-//Esto es otra prueba
-//CAmbio para probar pull request
-//Hice otro cambio aqui 
-
 #include <stdio.h> 
 #include <iomanip> 
 #include <iostream>
@@ -46,3 +40,5 @@ int main()
     cout << "\nThank you for using our stock system";
     return 0; 
 }
+
+//VOy a hacer un comentario

@@ -10,7 +10,10 @@ int main()
 
     do 
     {
-
+        cout << "\nWelcome to our stock system.\n";
+        cout << "This system calculates the amount of money paid per stock with or without commission\n\n"; 
+        cout << "Please enter your name: ";
+        getline (cin,name);
 
         cout << "How many shares of stock has been brought? "; 
         cin >> shares;
